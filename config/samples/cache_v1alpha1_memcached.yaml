@@ -1,4 +1,4 @@
-apiVersion: cache.svelama.com/v1
+apiVersion: cache.svelama.com/v1alpha1
 kind: Memcached
 metadata:
   labels:
